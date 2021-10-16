@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "This is fundamental of node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": " nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AzharOfficialGitAccount"
+  },
+  "author": "Azhar",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^2.0.12",
+    "validator": "^13.6.0",
+    "yargs": "^17.1.0"
+  }
+}
